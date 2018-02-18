@@ -27,7 +27,7 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 
-# tables with GHMD
+# tables with GFM
 
 Colons can be used to align columns.
 
